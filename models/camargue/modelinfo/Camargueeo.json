@@ -1,0 +1,10 @@
+{
+    "title": "Earth Oasis",
+    "description": "model-viewer.side-info.camargueeo.description",
+    "dimensions": "6m x 2.4m x 4m",
+    "features": [
+      "model-viewer.side-info.camargueeo.feature1",
+      "model-viewer.side-info.camargueeo.feature2",
+      "model-viewer.side-info.camargueeo.feature3"
+    ]
+}

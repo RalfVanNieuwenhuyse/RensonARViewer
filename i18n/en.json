@@ -1,0 +1,149 @@
+{
+    "common.find-dealer":"Find a dealer",
+
+    "home.return-renson":"Return to Renson",
+    "home.welcome":"WELCOME",
+    "home.title":"Start experiencing your new patio cover in",
+    "home.ar-title":"augmented reality",
+    "home.description":"With the Renson Outdoor AR experience, you can visualise the patio cover of your dreams. When you are happy and ready to buy contact one of our dealers in your area.",
+    "home.select-product":"Select product",
+        "home.seperator.title":"Our products",
+        "home.seperator.subtext":"Select one of the Renson patio covers to start experiencing.",
+
+        "home.grid.ar-button":"Visualise product in AR",
+        "home.grid.bgi-button":"Visualise product on image",
+        "home.grid.info-button":"More information",
+
+            "home.grid.amani.description":"The essence of comfort in a modern, luxurious outdoor living space inspired by the power of nature. One where you can fully unwind all year round.",
+            "home.grid.amani.productPageLink":"https://renson.net/gd-gb/products/pergolas/amani",
+                "home.grid.amani.feature1":"Free-standing or built-on", 
+                "home.grid.amani.feature2":"Rotating bladed roof, fixed canvas roof and open roof", 
+                "home.grid.amani.feature3":"Extensive design freedom, moveable overhang and corner columns (corner column not essential)",
+                "home.grid.amani.feature4":"Integrated lighting possible",
+                "home.grid.amani.feature5":"Unique architectural features and largest offer of accessories (integrating up to 4 side inserts/wall)",
+
+            "home.grid.camargue.description":"A streamlined design with perfect integration of options or side panels for an attractive, sleek result.",
+            "home.grid.camargue.productPageLink":"https://renson.net/gd-gb/products/pergolas/camargue",
+                "home.grid.camargue.feature1":"Free-standing or built-on", 
+                "home.grid.camargue.feature2":"Rotating bladed roof", 
+                "home.grid.camargue.feature3":"Integrated motor & screen",
+                "home.grid.camargue.feature4":"Largest offer of side inserts and finishes on the market",
+                "home.grid.camargue.feature5":"High structural strength and water flow",
+
+            "home.grid.camargue-skye.description":"A genuine open-air experience while remaining fully protected from the elements? Turn the aluminium louvres to the ideal position or fully retract the roof of your Camargue Skye.",
+            "home.grid.camargue-skye.productPageLink":"https://renson.net/gd-gb/products/pergolas/camargue-skye",
+                "home.grid.camargue-skye.feature1":"Free-standing or built-on",
+                "home.grid.camargue-skye.feature2":"Durable retractable and rotating bladed roof",
+                "home.grid.camargue-skye.feature3":"Integrated motor & screen",
+                "home.grid.camargue-skye.feature4":"Largest offer of side inserts and finishes on the market",
+                "home.grid.camargue-skye.feature5":"High structural strength and water flow",
+
+    
+    "model-viewer.pc.ar-button":"View in AR",
+    "model-viewer.phone.ar-button":"Open camera",
+
+    "model-viewer.back-to-website":"Back to website",
+        "model-viewer.side-info-menu.dimensions":"Dimensions",
+        "model-viewer.side-info-menu.features":"Features",
+            "model-viewer.side-info.defealt.title":"Model Information",
+            "model-viewer.side-info.defealt.description":"No information is available for this model.",
+            "model-viewer.side-info.defealt.dimensions":"Unknown",
+                "model-viewer.side-info.defealt.feature1":"No features available.",
+
+            "model-viewer.side-info.amani1.description":"The endless possibilities of Amani are the result of innovative engineering and continuous development. Our patented technology enables unprecedented customization.",
+                "model-viewer.side-info.amani1.feature1":"Folding Loggia",
+                "model-viewer.side-info.amani1.feature2":"Sliding Loggia",
+                "model-viewer.side-info.amani1.feature3":"Clear Glass sliding panels",
+                "model-viewer.side-info.amani1.feature4":"Linarte Wall",
+                "model-viewer.side-info.amani1.feature5":"Screen",
+                "model-viewer.side-info.amani1.feature6":"Curtains",
+
+            "model-viewer.side-info.amani2.description":"Architectural elegance, designed from the heart. Sleek lines, stunning details, and fully integrated options contribute to the visual harmony of your Amani.",
+                "model-viewer.side-info.amani2.feature1":"Clear Glass sliding panels",
+                "model-viewer.side-info.amani2.feature2":"Linarte Wall",
+                "model-viewer.side-info.amani2.feature3":"Screen",
+                "model-viewer.side-info.amani2.feature4":"Lineo Heat",
+                "model-viewer.side-info.amani2.feature5":"Lineo LED",
+
+            "model-viewer.side-info.amani3.description":"Where comfort meets serenity, the ultimate outdoor living experience unfolds. Amani is the perfect place to unwind year-round, surrounded by nature.",
+                "model-viewer.side-info.amani3.feature1":"Folding Loggia",
+                "model-viewer.side-info.amani3.feature2":"Sliding Loggia",
+                "model-viewer.side-info.amani3.feature3":"Lineo Heat",
+                "model-viewer.side-info.amani3.feature4":"Lineo LED",
+
+            "model-viewer.side-info.amani4.description":"Amani is your personalized architectural masterpiece. Choose the placement of the columns and add overhangs as stylish awnings. Experiment with shapes, lines, and structures. Dare to think differently. After all, that’s what your outdoor space is designed for.",
+                "model-viewer.side-info.amani4.feature1":"Folding Loggia",
+                "model-viewer.side-info.amani4.feature2":"Sliding Loggia",
+                "model-viewer.side-info.amani4.feature3":"Screen",
+                "model-viewer.side-info.amani4.feature4":"Linarte Wall",
+
+            "model-viewer.side-info.amani6.description":"Want to eat outside but still be protected from the elements. Then this could be as solution for you with Amani you can make your own outdoor kitchen and have the best of indoor and outdoor in one location.",
+                "model-viewer.side-info.amani6.feature1":"Sliding Loggia",
+                "model-viewer.side-info.amani6.feature2":"Clear Glass sliding panels",
+                "model-viewer.side-info.amani6.feature3":"Screen",
+                "model-viewer.side-info.amani6.feature4":"Linarte wall",
+
+            "model-viewer.side-info.amani7.description":"The perfect place to relax outside.",
+                "model-viewer.side-info.amani7.feature1":"Sliding Loggia",
+                "model-viewer.side-info.amani7.feature2":"Clear Glass sliding panels",
+                "model-viewer.side-info.amani7.feature3":"Screen",
+                "model-viewer.side-info.amani7.feature4":"Linarte wall",
+
+
+
+            "model-viewer.side-info.camarguecl.description":"Fresh green tones and light materials create an airy feeling. The result is modern, light architecture that blurs the boundaries between the indoors and the outdoors. Crystal Lounge is for anyone who loves pure nature. Fauna and flora are key in this style.",
+                "model-viewer.side-info.camarguecl.feature1":"Sliding Loggia",
+                "model-viewer.side-info.camarguecl.feature2":"Frosted glass sliding panels",
+                "model-viewer.side-info.camarguecl.feature3":"Screen",
+                "model-viewer.side-info.camarguecl.feature4":"Curtains",
+                "model-viewer.side-info.camarguecl.feature5":"Heating Beam",
+
+            "model-viewer.side-info.camargueeo.description":"Warm earth tones evoke the feeling of summer. Natural and artisan materials connect you to the richness of the earth. Earth Oasis offer the perfect harmony between the outdoors and the indoors.",
+                "model-viewer.side-info.camargueeo.feature1":"Sliding Loggia",
+                "model-viewer.side-info.camargueeo.feature2":"Screen",
+                "model-viewer.side-info.camargueeo.feature3":"Curtains",
+
+            "model-viewer.side-info.camargueig.description":"Sober shades of grey and subtle green hues inspired by plants combine to create a contemporary look. Find complete tranquillity in this contemporary oasis, surrounded by nature.",
+                "model-viewer.side-info.camargueig.feature1":"Sliding Loggia",
+                "model-viewer.side-info.camargueig.feature2":"Screen",
+                "model-viewer.side-info.camargueig.feature3":"Heating & Sound Beam",
+
+            "model-viewer.side-info.camarguepe.description":"Soft colours and finishing for an ambience that is light as a feather. Feel the weight drop off your shoulders and find complete tranquillity.​​​",
+                "model-viewer.side-info.camarguepe.feature1":"Sliding Loggia",
+                "model-viewer.side-info.camarguepe.feature2":"Screen",
+                "model-viewer.side-info.camarguepe.feature3":"Curtains",
+
+            "model-viewer.side-info.camarguesh.description":"Inspired by traditional Japanese architecture, the colours and materials of this contemporary concept help you find balance between your mind and body.",
+                "model-viewer.side-info.camarguesh.feature1":"Sliding Loggia",
+                "model-viewer.side-info.camarguesh.feature2":"Screen",
+                "model-viewer.side-info.camarguesh.feature3":"Linarte wall",
+
+            "model-viewer.side-info.camarguetc.description":"The feeling is pure transparency, with an emphasis on technical materials such as glass and steel. In Tech Cocoon, contemporary design converses with dynamic, playful materials such as soft coral.",
+                "model-viewer.side-info.camarguetc.feature1":"Sliding Loggia",
+                "model-viewer.side-info.camarguetc.feature2":"Clear glass sliding panels",
+                "model-viewer.side-info.camarguetc.feature3":"Curtains",
+                "model-viewer.side-info.camarguetc.feature4":"Heating Beam",
+
+
+            "model-viewer.side-info-menu.tutorial.ar.title":"AR viewer",
+                "model-viewer.side-info-menu.tutorial.ar.phone.tutorial":"Visualise a patio in augmented reality, select one of the models and the button \"Open camera\"",
+                "model-viewer.side-info-menu.tutorial.ar.desktop.tutorial":"Visualise a patio in augmented reality, press the button \"View in AR\". This will open a QR-code scan this code with an AR compatible device. Then open this menu and follow the steps on that device.",
+
+            "model-viewer.side-info-menu.tutorial.bgi.title":"Background image viewer",
+                "model-viewer.side-info-menu.tutorial.bgi.phone.tutorial":"Visualize a patio on an image, press the \"Upload background image\" and chose an image. Then you can position the model correctly on your image with the help of your fingers. If you want to change the image, upload another image or clear it and upload a new one.",
+                "model-viewer.side-info-menu.tutorial.bgi.desktop.tutorial":"Visualize a patio on an image, press the \"Upload background image\" and chose an image. Then you can position the model correctly on your image with the help of the sliders. If you want to change the image, upload another image or clear it and upload a new one.",
+
+        "model-viewer.bgi-controls.upload":"Upload background image",
+        "model-viewer.bgi-controls.clear":"Clear background image",
+        "model-viewer.bgi-controls.scale":"scale",
+        "model-viewer.bgi-controls.rotate-x":"rotate x",
+        "model-viewer.bgi-controls.rotate-y":"rotate y",
+        "model-viewer.bgi-controls.rotate-z":"rotate z",
+        "model-viewer.bgi-controls.advanced-settings":"Advanced rotation gizmo",
+        "model-viewer.bgi-controls.all":"all",
+        "model-viewer.bgi-controls.none":"none",
+
+
+    "utils.fallbacklink":"https://renson.eu/",
+    "Default":"Default"
+}

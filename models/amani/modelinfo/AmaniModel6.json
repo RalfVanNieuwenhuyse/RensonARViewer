@@ -1,0 +1,11 @@
+{
+  "title": "Outside Dinner",
+  "description": "model-viewer.side-info.amani6.description",
+  "dimensions": "11m x 2.3m x 3m",
+  "features": [
+    "model-viewer.side-info.amani6.feature1",
+    "model-viewer.side-info.amani6.feature2",
+    "model-viewer.side-info.amani6.feature3",
+    "model-viewer.side-info.amani6.feature4"
+  ]
+}

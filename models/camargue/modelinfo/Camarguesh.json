@@ -1,0 +1,10 @@
+{
+    "title": "Spiritual Harmony",
+    "description": "model-viewer.side-info.camarguesh.description",
+    "dimensions": "6m x 2.4m x 4m",
+    "features": [
+      "model-viewer.side-info.camarguesh.feature1",
+      "model-viewer.side-info.camarguesh.feature2",
+      "model-viewer.side-info.camarguesh.feature3"
+    ]
+}

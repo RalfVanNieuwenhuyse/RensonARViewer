@@ -1,0 +1,12 @@
+{
+    "title": "Crystal Lounge",
+    "description": "model-viewer.side-info.camarguecl.description",
+    "dimensions": "6m x 2.4m x 4m",
+    "features": [
+      "model-viewer.side-info.camarguecl.feature1",
+      "model-viewer.side-info.camarguecl.feature2",
+      "model-viewer.side-info.camarguecl.feature3",
+      "model-viewer.side-info.camarguecl.feature4",
+      "model-viewer.side-info.camarguecl.feature5"
+    ]
+}

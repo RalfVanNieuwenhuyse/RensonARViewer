@@ -1,0 +1,13 @@
+{
+  "title": "Amani",
+  "description": "model-viewer.side-info.amani1.description",
+  "dimensions": "6.8m x 2.3m x 3m",
+  "features": [
+    "model-viewer.side-info.amani1.feature1",
+    "model-viewer.side-info.amani1.feature2",
+    "model-viewer.side-info.amani1.feature3",
+    "model-viewer.side-info.amani1.feature4",
+    "model-viewer.side-info.amani1.feature5",
+    "model-viewer.side-info.amani1.feature6"
+  ]
+}

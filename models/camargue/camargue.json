@@ -1,0 +1,36 @@
+{
+    "name": "Camargue",
+    "modelPaths":
+    [
+        {
+            "model":"models/camargue/model/CamargueCL.glb",
+            "image":"models/camargue/image/CamargueCL.webp",
+            "modelInfo":"models/camargue/modelinfo/CamargueCL.json"            
+        },
+        {
+            "model":"models/camargue/model/camargueeo.glb",
+            "image":"models/camargue/image/camargueeo.webp",
+            "modelInfo":"models/camargue/modelinfo/Camargueeo.json"            
+        },
+        {
+            "model":"models/camargue/model/camargueig.glb",
+            "image":"models/camargue/image/camargueig.webp",
+            "modelInfo":"models/camargue/modelinfo/Camargueig.json"            
+        },
+        {
+            "model":"models/camargue/model/camarguepe.glb",
+            "image":"models/camargue/image/camarguepe.webp",
+            "modelInfo":"models/camargue/modelinfo/Camarguepe.json"            
+        },
+        {
+            "model":"models/camargue/model/camarguesh.glb",
+            "image":"models/camargue/image/camarguesh.webp",
+            "modelInfo":"models/camargue/modelinfo/Camarguesh.json"            
+        },
+        {
+            "model":"models/camargue/model/camarguetc.glb",
+            "image":"models/camargue/image/camarguetc.webp",
+            "modelInfo":"models/camargue/modelinfo/Camarguetc.json"            
+        }
+    ]
+}

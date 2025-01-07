@@ -1,0 +1,10 @@
+{
+    "title": "Pure Essence",
+    "description": "model-viewer.side-info.camarguepe.description",
+    "dimensions": "6m x 2.4m x 4m",
+    "features": [
+      "model-viewer.side-info.camarguepe.feature1",
+      "model-viewer.side-info.camarguepe.feature2",
+      "model-viewer.side-info.camarguepe.feature3"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Idyllic Garden",
+    "description": "model-viewer.side-info.camargueig.description",
+    "dimensions": "6m x 2.4m x 4m",
+    "features": [
+      "model-viewer.side-info.camargueig.feature1",
+      "model-viewer.side-info.camargueig.feature2",
+      "model-viewer.side-info.camargueig.feature3"
+    ]
+}

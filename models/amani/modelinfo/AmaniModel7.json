@@ -1,0 +1,11 @@
+{
+  "title": "The lounge",
+  "description": "model-viewer.side-info.amani7.description",
+  "dimensions": "11.85m x 2.3m x 3.5m",
+  "features": [
+    "model-viewer.side-info.amani7.feature1",
+    "model-viewer.side-info.amani7.feature2",
+    "model-viewer.side-info.amani7.feature3",
+    "model-viewer.side-info.amani7.feature4"
+  ]
+}

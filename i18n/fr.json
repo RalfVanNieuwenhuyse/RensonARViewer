@@ -1,0 +1,151 @@
+{
+    "common.find-dealer":"Trouver un revendeur",
+
+    "home.return-renson":"Retour à Renson",
+    "home.welcome":"BEINVENUE",
+    "home.title":"Commencez à découvrir votre nouvelle pergola en ",
+    "home.ar-title":"réalité augmentée",
+    "home.description":"Avec l'expérience Renson Outdoor AR, vous pouvez visualiser la couverture de terrasse de vos rêves. Lorsque vous êtes satisfait et prêt à acheter, contactez l'un de nos revendeurs dans votre région.",
+    "home.select-product":"Sélectionnez un produit",
+        "home.seperator.title":"Nos produits",
+        "home.seperator.subtext":"Choisissez l'une des couvertures de terrasse Renson pour commencer l'expérience.",
+
+        "home.grid.ar-button":"Visualiser le produit en RA",
+        "home.grid.bgi-button":"Visualiser le produit sur l'image",
+        "home.grid.info-button":"Plus d'informations",
+
+            "home.grid.amani.description":"L’essence du confort dans un espace de vie extérieur moderne et luxueux, inspiré par la force de la nature. Un espace de vie où vous pouvez vous détendre et vous relaxer complètement tout au long de l’année.",
+            "home.grid.amani.productPageLink":"https://renson.net/fr-be/produits/pergolas/amani",
+                "home.grid.amani.feature1":"Autoportante ou accolée", 
+                "home.grid.amani.feature2":"Toiture en lames orientables, toiture en toile fixe et toiture ouverte", 
+                "home.grid.amani.feature3":"Grande liberté de conception, avancée et colonnes d’angle déplaçables (colonne d’angle facultative)",
+                "home.grid.amani.feature4":"Possibilité d’éclairage intégré",
+                "home.grid.amani.feature5":"Caractéristiques architecturales uniques et le plus grand choix d’accessoires (jusqu’à 4 remplissages latéraux par mur)",
+
+            "home.grid.camargue.description":"Un design épuré avec une intégration parfaite des options ou panneaux latéraux. Pour un résultat séduisant et épuré.",
+            "home.grid.camargue.productPageLink":"https://renson.net/fr-be/produits/pergolas/camargue",
+                "home.grid.camargue.feature1":"Autoportante ou accolée", 
+                "home.grid.camargue.feature2":"Toiture en lames orientables", 
+                "home.grid.camargue.feature3":"Intégration moteur et store",
+                "home.grid.camargue.feature4":"Le plus grand choix de remplissages latéraux et de finitions du marché",
+                "home.grid.camargue.feature5":"Résistance structurelle et débit d’eau élevés",
+
+            "home.grid.camargue-skye.description":"Vous voulez vivre une véritable expérience du grand air tout en restant protégé? Orientez les lames en aluminium dans la position idéale ou ouvrez complètement le toit de votre Camargue Skye.",
+            "home.grid.camargue-skye.productPageLink":"https://renson.net/fr-be/produits/pergolas/camargue-skye",
+                "home.grid.camargue-skye.feature1":"Autoportante ou accolée", 
+                "home.grid.camargue-skye.feature2":"toiture durable en lames orientables et coulissantes", 
+                "home.grid.camargue-skye.feature3":"Intégration moteur et store",
+                "home.grid.camargue-skye.feature4":"Le plus grand choix de remplissages latéraux et de finitions du marché",
+                "home.grid.camargue-skye.feature5":"Résistance structurelle et débit d’eau élevés",
+
+
+    "model-viewer.pc.ar-button":"Afficher en RA",
+    "model-viewer.phone.ar-button":"Ouverte caméra",
+
+    "model-viewer.back-to-website":"Retour au site",
+        "model-viewer.side-info-menu.dimensions":"Dimensions",
+        "model-viewer.side-info-menu.features":"Caractéristiques",
+            "model-viewer.side-info.defealt.title":"Informations modèle",
+            "model-viewer.side-info.defealt.description":"Aucune information n'est disponible pour ce modèle.",
+            "model-viewer.side-info.defealt.dimensions":"inconnues",
+                "model-viewer.side-info.defealt.feature1":"Aucune caractéristiques disponible.",
+
+            "model-viewer.side-info.amani1.description":"Les possibilités infinies d'Amani sont le résultat d'une ingénierie innovante et d'un développement continu. Notre technologie brevetée permet une personnalisation sans précédent.",
+                "model-viewer.side-info.amani1.feature1":"Loggia pliant",
+                "model-viewer.side-info.amani1.feature2":"Loggia coulissant",
+                "model-viewer.side-info.amani1.feature3":"Panneaux coulissants en verre transparent",
+                "model-viewer.side-info.amani1.feature4":"Linarte paroi",
+                "model-viewer.side-info.amani1.feature5":"Screen",
+                "model-viewer.side-info.amani1.feature6":"Rideaux",
+            
+            "model-viewer.side-info.amani2.description":"Élégance architecturale, conçue avec passion. Des lignes épurées, des détails saisissants et des options entièrement intégrées contribuent à l'harmonie visuelle de votre Amani.",
+                "model-viewer.side-info.amani2.feature1":"Panneaux coulissants en verre transparent",
+                "model-viewer.side-info.amani2.feature2":"Linarte paroi",
+                "model-viewer.side-info.amani2.feature3":"Screen",
+                "model-viewer.side-info.amani2.feature4":"Lineo Heat",
+                "model-viewer.side-info.amani2.feature5":"Lineo LED",
+
+            "model-viewer.side-info.amani3.description":"Là où le confort rencontre la sérénité, l'ultime expérience de vie en plein air se déploie. Amani est l'endroit idéal pour se détendre toute l'année, entouré par la nature.",
+                "model-viewer.side-info.amani3.feature1":"Loggia pliant",
+                "model-viewer.side-info.amani3.feature2":"Loggia coulissant",
+                "model-viewer.side-info.amani3.feature3":"Lineo Heat",
+                "model-viewer.side-info.amani3.feature4":"Lineo LED",
+
+            "model-viewer.side-info.amani4.description":"Amani est votre chef-d'œuvre architectural personnalisé. Choisissez l'emplacement des colonnes et ajoutez des débords en tant qu'auvents élégants. Expérimentez avec des formes, des lignes et des structures. Osez penser différemment. Après tout, c'est pour cela que votre espace extérieur est conçu.",
+                "model-viewer.side-info.amani4.feature1":"Loggia pliant",
+                "model-viewer.side-info.amani4.feature2":"Loggia coulissant",
+                "model-viewer.side-info.amani4.feature3":"Screen",
+                "model-viewer.side-info.amani4.feature4":"Linarte paroi",
+
+            "model-viewer.side-info.amani6.description":"Vous souhaitez manger à l'extérieur tout en étant protégé des intempéries ? Alors cela pourrait être la solution pour vous. Avec Amani, vous pouvez créer votre propre cuisine extérieure et profiter du meilleur des espaces intérieurs et extérieurs au même endroit.",
+                "model-viewer.side-info.amani6.feature1":"Loggia coulissant",
+                "model-viewer.side-info.amani6.feature2":"Panneaux coulissants en verre transparent",
+                "model-viewer.side-info.amani6.feature3":"Screen",
+                "model-viewer.side-info.amani6.feature4":"Linarte paroi",
+                
+            "model-viewer.side-info.amani7.description":"L'endroit idéal pour se détendre à l'extérieur.",
+                "model-viewer.side-info.amani7.feature1":"Loggia coulissant",
+                "model-viewer.side-info.amani7.feature2":"Panneaux coulissants en verre transparent",
+                "model-viewer.side-info.amani7.feature3":"Screen",
+                "model-viewer.side-info.amani7.feature4":"Linarte paroi",
+
+
+
+            "model-viewer.side-info.camarguecl.description":"Le côté aérien des tons vert clair est renforcé par la palette de matériaux légers. L’architecture moderne et légère qui en résulte brouille la frontière entre l’intérieur et l’extérieur. Crystal Lounge est destiné aux personnes qui aiment la nature à l’état pur Ce style fait la part belle à la faune et la flore.",
+                "model-viewer.side-info.camarguecl.feature1":"Loggia coulissant",
+                "model-viewer.side-info.camarguecl.feature2":"Panneaux coulissants en verre mat",
+                "model-viewer.side-info.camarguecl.feature3":"Screen",
+                "model-viewer.side-info.camarguecl.feature4":"Rideaux",
+                "model-viewer.side-info.camarguecl.feature5":"Heating Beam",
+
+            "model-viewer.side-info.camargueeo.description":"Les tons chauds des couleurs terreuses évoquent l’été. Les matériaux naturels et artisanaux vous connectent à la richesse de notre planète. Pour une harmonie parfaite entre l’intérieur et l’extérieur.",
+                "model-viewer.side-info.camargueeo.feature1":"Loggia coulissant",
+                "model-viewer.side-info.camargueeo.feature2":"Screen",
+                "model-viewer.side-info.camargueeo.feature3":"Rideaux",
+            
+            "model-viewer.side-info.camargueig.description":"Des gris sobres et des verts subtils inspirés des plantes créent un look contemporain. Détendez-vous totalement dans cette oasis contemporaine entourée de nature.",
+                "model-viewer.side-info.camargueig.feature1":"Loggia coulissant",
+                "model-viewer.side-info.camargueig.feature2":"Screen",
+                "model-viewer.side-info.camargueig.feature3":"Heating & Sound Beam",
+
+            "model-viewer.side-info.camarguepe.description":"Des couleurs et des finitions douces pour une ambiance légère. Ici, tous vos soucis disparaissent et vous pouvez vous détendre complètement.",
+                "model-viewer.side-info.camarguepe.feature1":"Loggia coulissant",
+                "model-viewer.side-info.camarguepe.feature2":"Screen",
+                "model-viewer.side-info.camarguepe.feature3":"Rideaux",
+
+            "model-viewer.side-info.camarguesh.description":"Inspiré par l’architecture traditionnelle japonaise, ce concept contemporain est constitué de couleurs et matériaux qui apportent un équilibre entre le corps et l’esprit.",
+                "model-viewer.side-info.camarguesh.feature1":"Loggia coulissant",
+                "model-viewer.side-info.camarguesh.feature2":"Screen",
+                "model-viewer.side-info.camarguesh.feature3":"Linarte paroi",
+
+            "model-viewer.side-info.camarguetc.description":"L’accent mis sur des matériaux techniques tels que le verre et le métal crée une sensation de pure transparence. Ici, le design contemporain dialogue avec des formes dynamiques et ludiques comme le soft coral.",
+                "model-viewer.side-info.camarguetc.feature1":"Loggia coulissant",
+                "model-viewer.side-info.camarguetc.feature2":"Panneaux coulissants en verre transparent",
+                "model-viewer.side-info.camarguetc.feature3":"Rideaux",
+                "model-viewer.side-info.camarguetc.feature4":"Heating Beam",
+
+
+            "model-viewer.side-info-menu.tutorial.ar.title":"Visionneuse RA",
+                "model-viewer.side-info-menu.tutorial.ar.phone.tutorial":"Visualisez un terrasse en réalité augmentée, sélectionnez l'un des modèles et appuyez sur le bouton \"Ouverte caméra\".",
+                "model-viewer.side-info-menu.tutorial.ar.desktop.tutorial":"Visualisez un terrasse en réalité augmentée, appuyez sur le bouton \"Afficher en RA\". Cela ouvrira un code QR. Scannez ce code avec un appareil compatible RA. Ensuite, ouvrez ce menu et suivez les étapes sur cet appareil.",
+
+            "model-viewer.side-info-menu.tutorial.bgi.title":"Visionneuse d'image d'arrière-plan",
+                "model-viewer.side-info-menu.tutorial.bgi.phone.tutorial":"Visualisez un terrasse sur une image, appuyez sur \"Télécharger l'image d'arrière-plan\" et choisissez une image. Ensuite, vous pouvez positionner le modèle correctement sur ton image avec l'aide de votre doigts. Si vous souhaitez changer l'image, téléchargez une autre image ou effacez-la et téléchargez-en une nouvelle.",
+                "model-viewer.side-info-menu.tutorial.bgi.desktop.tutorial":"Visualisez un terrasse sur une image, appuyez sur \"Télécharger l'image d'arrière-plan\" et choisissez une image. Ensuite, vous pouvez positionner correctement le modèle sur votre image à l'aide des curseurs. Si vous souhaitez changer l'image, téléchargez une autre image ou effacez-la et téléchargez-en une nouvelle.",
+
+
+        "model-viewer.bgi-controls.upload":"Télécharger l'image d'arrière-plan",
+        "model-viewer.bgi-controls.clear":"Supprimer l'image d'arrière-plan",
+        "model-viewer.bgi-controls.scale":"échelle",
+        "model-viewer.bgi-controls.rotate-x":"tourner x",
+        "model-viewer.bgi-controls.rotate-y":"tourner y",
+        "model-viewer.bgi-controls.rotate-z":"tourner z",
+        "model-viewer.bgi-controls.advanced-settings":"Gizmo de rotation avancé",
+        "model-viewer.bgi-controls.all":"tous",
+        "model-viewer.bgi-controls.none":"aucun",
+
+
+    "utils.fallbacklink":"https://renson.eu/",
+    "Default":"Défaut"
+    
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Tech Cocoon",
+  "description": "model-viewer.side-info.camarguetc.description",
+  "dimensions": "6m x 2.4m x 4m",
+  "features": [
+    "model-viewer.side-info.camarguetc.feature1",
+    "model-viewer.side-info.camarguetc.feature2",
+    "model-viewer.side-info.camarguetc.feature3",
+    "model-viewer.side-info.camarguetc.feature4"
+  ]
+}

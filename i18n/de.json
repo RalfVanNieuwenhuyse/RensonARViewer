@@ -1,0 +1,150 @@
+{
+    "common.find-dealer":"Händler finden",
+
+    "home.return-renson":"Zurück zu Renson",
+    "home.welcome":"WILLKOMMEN",
+    "home.title":"Erleben Sie Ihre neue Terrasse in",
+    "home.ar-title":"augmented reality",
+    "home.description":"Mit der Renson Outdoor AR-Erfahrung können Sie die Terrassenüberdachung Ihrer Träume visualisieren. Wenn Sie zufrieden sind und bereit zum Kauf, kontaktieren Sie einen unserer Händler in Ihrer Nähe.",
+    "home.select-product":"Produkt auswählen",
+        "home.seperator.title":"Unsere Produkte",
+        "home.seperator.subtext":"Wählen Sie eine der Renson-Terrassenüberdachungen aus, um das Erlebnis zu beginnen.",
+
+        "home.grid.ar-button":"Visualisieren das Produkt in AR",
+        "home.grid.bgi-button":"Visualisieren Sie das Produkt auf dem Bild",
+        "home.grid.info-button":"Weitere Informationen",
+
+            "home.grid.amani.description":"Die Essenz des Komforts in einem modernen und luxuriösen Outdoor-Wohnbereich, inspiriert von der Kraft der Natur. Hier können Sie sich völlig entspannen. Das ganze Jahr über.",
+            "home.grid.amani.productPageLink":"https://renson.net/de-de/produkte/terrassenuberdachung/amani",
+                "home.grid.amani.feature1":"Freistehend oder Anbau", 
+                "home.grid.amani.feature2":"Drehbares Lamellendach, festes Tuch und offenes Dach", 
+                "home.grid.amani.feature3":"Große Gestaltungsfreiheit, Auskragung und Eckpfosten versetzbar (Eckpfosten nicht erforderlich)",
+                "home.grid.amani.feature4":"Integrierte Beleuchtung möglich",
+                "home.grid.amani.feature5":"Einzigartige architektonische Features und größtes Angebot an Zubehör (Integration von bis zu 4 Seitenelementen/Wand)",
+
+            "home.grid.camargue.description":"Ein schlankes Design, mit perfekter Integration von Accessoires oder Seitenpaneelen. Für ein attraktives, elegantes Ergebnis.",
+            "home.grid.camargue.productPageLink":"https://renson.net/de-de/produkte/terrassenuberdachung/camargue",
+                "home.grid.camargue.feature1":"Freistehend oder Anbau", 
+                "home.grid.camargue.feature2":"Drehbares Lamellendach", 
+                "home.grid.camargue.feature3":"Integration von Motor und Screen",
+                "home.grid.camargue.feature4":"Größtes Angebot an Seitenelementen und Verarbeitungen am Markt",
+                "home.grid.camargue.feature5":"Hohe strukturelle Stabilität und hoher Wasservolumenstrom",
+
+            "home.grid.camargue-skye.description":"Sie wünschen sich ein echtes Outdoor-Erlebnis, möchten dabei aber gerne geschützt sitzen? Die Lamellen der Camargue Sky lassen sich ganz individuell in die für Sie perfekte Position drehen und sogar -für den freien Blick in den Himmel- elektronisch an die Seite schieben.",
+            "home.grid.camargue-skye.productPageLink":"https://renson.net/de-de/produkte/terrassenuberdachung/camargue-skye",
+                "home.grid.camargue-skye.feature1":"Freistehend oder Anbau", 
+                "home.grid.camargue-skye.feature2":"Robustes, aufschiebbares und drehbares Lamellendach", 
+                "home.grid.camargue-skye.feature3":"Integration von Motor und Screen",
+                "home.grid.camargue-skye.feature4":"Größtes Angebot an Seitenelementen und Verarbeitungen am Markt",
+                "home.grid.camargue-skye.feature5":"Hohe strukturelle Stabilität und hoher Wasservolumenstrom",
+
+        
+    "model-viewer.pc.ar-button":"In AR anzeigen",
+    "model-viewer.phone.ar-button":"Öffnen Kamera",
+
+    "model-viewer.back-to-website":"Zurück zur Website",
+        "model-viewer.side-info-menu.dimensions":"Abmessungen",
+        "model-viewer.side-info-menu.features":"Merkmale",
+            "model-viewer.side-info.defealt.title":"Modell informationen",
+            "model-viewer.side-info.defealt.description":"Für dieses Modell sind keine Informationen verfügbar.",
+            "model-viewer.side-info.defealt.dimensions":"unbekannt",
+                "model-viewer.side-info.defealt.feature1":"Keine Merkmale verfügbar.",
+
+            "model-viewer.side-info.amani1.description":"Die endlosen Möglichkeiten von Amani sind das Ergebnis innovativer Ingenieurskunst und kontinuierlicher Entwicklung. Unsere patentierte Technologie ermöglicht beispiellose Anpassungen.",
+                "model-viewer.side-info.amani1.feature1":"Falt Loggia",
+                "model-viewer.side-info.amani1.feature2":"Schiebepaneele Loggia",
+                "model-viewer.side-info.amani1.feature3":"Helder glassschiebewand",
+                "model-viewer.side-info.amani1.feature4":"Linarte Wand",
+                "model-viewer.side-info.amani1.feature5":"Screen",
+                "model-viewer.side-info.amani1.feature6":"Vorhängen",
+
+            "model-viewer.side-info.amani2.description":"Architektonische Eleganz, aus dem Herzen entworfen. Schlanke Linien, beeindruckende Details und vollständig integrierte Optionen tragen zur visuellen Harmonie Ihres Amani bei.",
+                "model-viewer.side-info.amani2.feature1":"Helder glassschiebewand",
+                "model-viewer.side-info.amani2.feature2":"Linarte Wand",
+                "model-viewer.side-info.amani2.feature3":"Screen",
+                "model-viewer.side-info.amani2.feature4":"Lineo Heat",
+                "model-viewer.side-info.amani2.feature5":"Lineo LED",
+
+            "model-viewer.side-info.amani3.description":"Wo Komfort auf Gelassenheit trifft, entfaltet sich das ultimative Outdoor-Lebensgefühl. Amani ist der perfekte Ort, um das ganze Jahr über zu entspannen, umgeben von der Natur.",
+                "model-viewer.side-info.amani3.feature1":"Falt Loggia",
+                "model-viewer.side-info.amani3.feature2":"Schiebepaneele Loggia",
+                "model-viewer.side-info.amani3.feature3":"Lineo Heat",
+                "model-viewer.side-info.amani3.feature4":"Lineo LED",
+
+            "model-viewer.side-info.amani4.description":"Amani ist Ihr personalisiertes architektonisches Meisterwerk. Wählen Sie die Platzierung der Säulen und fügen Sie Überhänge als stilvolle Markisen hinzu. Experimentieren Sie mit Formen, Linien und Strukturen. Wagen Sie es, anders zu denken. Schließlich ist genau dafür Ihr Außenbereich gestaltet.",
+                "model-viewer.side-info.amani4.feature1":"Falt Loggia",
+                "model-viewer.side-info.amani4.feature2":"Schiebepaneele Loggia",
+                "model-viewer.side-info.amani4.feature3":"Screen",
+                "model-viewer.side-info.amani4.feature4":"Linarte Wand",
+
+            "model-viewer.side-info.amani6.description":"Möchten Sie draußen essen, aber dennoch vor den Witterungseinflüssen geschützt sein? Dann könnte dies die Lösung für Sie sein. Mit Amani können Sie Ihre eigene Außenküche gestalten und das Beste aus Innen- und Außenbereich an einem Ort vereinen.",
+                "model-viewer.side-info.amani6.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.amani6.feature2":"Helder glassschiebewand",
+                "model-viewer.side-info.amani6.feature3":"Screen",
+                "model-viewer.side-info.amani6.feature4":"Linarte Wand",
+
+            "model-viewer.side-info.amani7.description":"Der perfekte Ort zum Entspannen im Freien.",
+                "model-viewer.side-info.amani7.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.amani7.feature2":"Helder glassschiebewand",
+                "model-viewer.side-info.amani7.feature3":"Screen",
+                "model-viewer.side-info.amani7.feature4":"Linarte Wand",
+
+            
+
+            "model-viewer.side-info.camarguecl.description":"​​Frische Grüntöne und leichte Materialien vermitteln ein Gefühl von Unbeschwertheit. So entsteht eine moderne, luftige Architektur, die die Grenzen zwischen Innen- und Außenbereich verschwimmen lässt. Crystal Lounge richtet sich an die Liebhaber reiner Natur. Bei diesem Stil dreht sich alles um Fauna und Flora.",
+                "model-viewer.side-info.camarguecl.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.camarguecl.feature2":"Milchglas glassschiebewand",
+                "model-viewer.side-info.camarguecl.feature3":"Screen",
+                "model-viewer.side-info.camarguecl.feature4":"Vorhängen",
+                "model-viewer.side-info.camarguecl.feature5":"Heating Beam",
+
+            "model-viewer.side-info.camargueeo.description":"Warme Erdtöne sorgen für sommerliche Stimmung. Natürliche und handwerkliche Materialien schaffen eine Verbindung zum Reichtum der Erde. Für eine perfekte Harmonie zwischen Innen- und Außenbereich.​​​",
+                "model-viewer.side-info.camargueeo.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.camargueeo.feature2":"Screen",
+                "model-viewer.side-info.camargueeo.feature3":"Vorhängen",
+
+            "model-viewer.side-info.camargueig.description":"Nüchterne Grautöne und dezente ​Grüntöne​, inspiriert von Pflanzen, erzeugen eine moderne Ausstrahlung. Entspannen Sie sich in dieser modernen Oase inmitten der Natur.",
+                "model-viewer.side-info.camargueig.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.camargueig.feature2":"Screen",
+                "model-viewer.side-info.camargueig.feature3":"Heating & Sound Beam",
+
+            "model-viewer.side-info.camarguepe.description":"​​​Zarte ​Farben und Oberflächen für eine federleichte Atmosphäre. Hier fällt alles von Ihnen ab und Sie können sich völlig entspannen.​​​",
+                "model-viewer.side-info.camarguepe.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.camarguepe.feature2":"Screen",
+                "model-viewer.side-info.camarguepe.feature3":"Vorhängen",
+
+            "model-viewer.side-info.camarguesh.description":"Inspiriert von der traditionellen japanischen Architektur, bringen die Farben und Materialien dieses modernen Konzepts Körper und Geist in Einklang.",
+                "model-viewer.side-info.camarguesh.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.camarguesh.feature2":"Screen",
+                "model-viewer.side-info.camarguesh.feature3":"Linarte Wand",
+
+            "model-viewer.side-info.camarguetc.description":"Ein Gefühl purer Transparenz, wobei technische Materialien wie Glas und Metall dominieren. Zeitgenössische Formgebung wird hier mit dynamischen, verspielten Farben wie Soft Coral kombiniert.",
+                "model-viewer.side-info.camarguetc.feature1":"Schiebepaneele Loggia",
+                "model-viewer.side-info.camarguetc.feature2":"Helder glassschiebewand",
+                "model-viewer.side-info.camarguetc.feature3":"Vorhängen",
+                "model-viewer.side-info.camarguetc.feature4":"Heating Beam",
+
+
+            "model-viewer.side-info-menu.tutorial.ar.title":"AR viewer",
+                "model-viewer.side-info-menu.tutorial.ar.phone.tutorial":"Visualisieren Sie eine Terrasse in Augmented Reality, wählen Sie eines der Modelle und drücken Sie die Schaltfläche \"Kamera öffnen\".",
+                "model-viewer.side-info-menu.tutorial.ar.desktop.tutorial":"Visualisieren Sie eine Terrasse in Augmented Reality, drücken Sie die Schaltfläche \"In AR anzeigen\". Dies öffnet einen QR-Code. Scannen Sie diesen Code mit einem AR-kompatiblen Gerät. Öffnen Sie dann dieses Menü und folgen Sie den Schritten auf diesem Gerät.",
+
+            "model-viewer.side-info-menu.tutorial.bgi.title":"Hintergrund Bildbetrachter",
+                "model-viewer.side-info-menu.tutorial.bgi.phone.tutorial":"Visualisieren Sie eine Terrasse auf einem Bild, drücken Sie auf \"Hintergrundbild hochladen\" und wählen Sie ein Bild aus. Dann können Sie das Modell mit Hilfe deiner Finger richtig auf deinem Bild positionieren.. Wenn Sie das Bild ändern möchten, laden Sie ein anderes Bild hoch oder löschen Sie es und laden Sie ein neues hoch.",
+                "model-viewer.side-info-menu.tutorial.bgi.desktop.tutorial":"Visualisieren Sie eine Terrasse auf einem Bild, drücken Sie auf \"Hintergrundbild hochladen\" und wählen Sie ein Bild aus. Dann können Sie das Modell mit Hilfe der Schieberegler korrekt auf Ihrem Bild positionieren. Wenn Sie das Bild ändern möchten, laden Sie ein anderes Bild hoch oder löschen Sie es und laden Sie ein neues hoch.",
+
+
+        "model-viewer.bgi-controls.upload":"Hintergrundbild hochladen",
+        "model-viewer.bgi-controls.clear":"Löschen Hintergrundbild",
+        "model-viewer.bgi-controls.scale":"Skala",
+        "model-viewer.bgi-controls.rotate-x":"drehen x",
+        "model-viewer.bgi-controls.rotate-y":"drehen y",
+        "model-viewer.bgi-controls.rotate-z":"drehen z",
+        "model-viewer.bgi-controls.advanced-settings":"Erweitertes Rotations Gizmo",
+        "model-viewer.bgi-controls.all":"alle",
+        "model-viewer.bgi-controls.none":"keine",
+
+    
+    "utils.fallbacklink":"https://renson.eu/",
+    "Default":"Standard"
+}

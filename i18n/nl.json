@@ -1,0 +1,150 @@
+{
+    "common.find-dealer":"Dealer zoeken",
+
+    "home.return-renson":"Terug naar Renson",
+    "home.welcome":"WELKOM",
+    "home.title":"Ervaar uw nieuwe terrasoverkapping in",
+    "home.ar-title":"augmented reality",
+    "home.description":"Met de Renson Outdoor AR-ervaring kunt u de terrasoverkappingen van uw dromen visualiseren. Wanneer u tevreden bent en klaar om te kopen, neem dan contact op met een van onze dealers in uw omgeving.",
+    "home.select-product":"Kies product",
+        "home.seperator.title":"Onze producten",
+        "home.seperator.subtext":"Kies één van de Renson terrasoverkappingen om de ervaring te starten.",
+
+        "home.grid.ar-button":"Visualiseer product in AR",
+        "home.grid.bgi-button":"Visualiseer product op afbeelding",
+        "home.grid.info-button":"Meer informatie",
+
+            "home.grid.amani.description":"De essentie van comfort in een moderne en luxueuze buitenleefruimte, geïnspireerd door de kracht van de natuur. Waar je helemaal tot rust komt. Het hele jaar door.",
+            "home.grid.amani.productPageLink":"https://renson.net/nl-be/producten/terrasoverkapping/amani",
+                "home.grid.amani.feature1":"Vrijstaand of aanbouw", 
+                "home.grid.amani.feature2":"Roteerbaar lamellendak, vast canvas dak en open dak", 
+                "home.grid.amani.feature3":"Grote ontwerpvrijheid, dakoversteek en hoekkolommen verplaatsbaar (hoekkolom niet noodzakelijk)",
+                "home.grid.amani.feature4":"Geïntegreerde verlichting mogelijk",
+                "home.grid.amani.feature5":"Unieke architecturale features en gootste aanbod accessoires (integratie tot 4 zij-invullingen / wand)",
+
+            "home.grid.camargue.description":"Een gestroomlijnd design, met perfecte integratie van opties of zijpanelen. Voor een aantrekkelijk, strak resultaat.",
+            "home.grid.camargue.productPageLink":"https://renson.net/nl-be/producten/terrasoverkapping/camargue",
+                "home.grid.camargue.feature1":"Vrijstaand of aanbouw", 
+                "home.grid.camargue.feature2":"Roteerbaar lamellendak", 
+                "home.grid.camargue.feature3":"Integratie motor & screen",
+                "home.grid.camargue.feature4":"Grootste aanbod zij-invulllingen en afwerkingen op de markt",
+                "home.grid.camargue.feature5":"Hoge structurele sterkte en waterdebiet",
+
+            "home.grid.camargue-skye.description":"De echte openluchtervaring, terwijl je toch beschut blijft? Draai de aluminium lamellen in de ideale stand of schuif het dak van je Camargue Skye volledig open.",
+            "home.grid.camargue-skye.productPageLink":"https://renson.net/nl-be/producten/terrasoverkapping/camargue-skye",
+                "home.grid.camargue-skye.feature1":"Vrijstaand of aanbouw", 
+                "home.grid.camargue-skye.feature2":"duurzaam openschuifbaar en roteerbaar lamellendak", 
+                "home.grid.camargue-skye.feature3":"Integratie motor & screen",
+                "home.grid.camargue-skye.feature4":"Grootste aanbod zij-invulllingen en afwerkingen op de markt",
+                "home.grid.camargue-skye.feature5":"Hoge structurele sterkte en waterdebiet",
+
+
+    "model-viewer.pc.ar-button":"Bekijk in AR",
+    "model-viewer.phone.ar-button":"Open camera",
+
+    "model-viewer.back-to-website":"Terug naar website",
+        "model-viewer.side-info-menu.dimensions":"Afmetingen",
+        "model-viewer.side-info-menu.features":"Kenmerken",
+            "model-viewer.side-info.defealt.title":"Model informatie",
+            "model-viewer.side-info.defealt.description":"Er is geen informatie beschikbaar voor dit model.",
+            "model-viewer.side-info.defealt.dimensions":"ongekend",
+                "model-viewer.side-info.defealt.feature1":"Geen kenmerken beschikbaar.",
+                
+            "model-viewer.side-info.amani1.description":"De eindeloze mogelijkheden van Amani zijn het resultaat van innovatieve engineering en continue ontwikkeling. Onze gepatenteerde technologie maakt ongekende maatwerk mogelijk.",
+                "model-viewer.side-info.amani1.feature1":"Vouw Loggia",
+                "model-viewer.side-info.amani1.feature2":"Schuif Loggia",
+                "model-viewer.side-info.amani1.feature3":"Heldere glazen schuifwand",
+                "model-viewer.side-info.amani1.feature4":"Linarte wand",
+                "model-viewer.side-info.amani1.feature5":"Screen",
+                "model-viewer.side-info.amani1.feature6":"Gordijnen",
+
+            "model-viewer.side-info.amani2.description":"Architectonische elegantie, ontworpen vanuit het hart. Strakke lijnen, verbluffende details en volledig geïntegreerde opties dragen bij aan de visuele harmonie van uw Amani.",
+                "model-viewer.side-info.amani2.feature1":"Heldere glazen schuifwand",
+                "model-viewer.side-info.amani2.feature2":"Linarte wand",
+                "model-viewer.side-info.amani2.feature3":"Screen",
+                "model-viewer.side-info.amani2.feature4":"Lineo Heat",
+                "model-viewer.side-info.amani2.feature5":"Lineo LED",
+
+            "model-viewer.side-info.amani3.description":"Waar comfort de sereniteit ontmoet, ontvouwt zich de ultieme buitenlevenservaring. Amani is de perfecte plek om het hele jaar door te ontspannen, omringd door de natuur.",
+                "model-viewer.side-info.amani3.feature1":"Vouw Loggia",
+                "model-viewer.side-info.amani3.feature2":"Schuif Loggia",
+                "model-viewer.side-info.amani3.feature3":"Lineo Heat",
+                "model-viewer.side-info.amani3.feature4":"Lineo LED",
+
+            "model-viewer.side-info.amani4.description":"Amani is uw gepersonaliseerd architectonisch meesterwerk. Kies de plaatsing van de kolommen en voeg overstekken toe als stijlvolle luifels. Experimenteer met vormen, lijnen en structuren. Durf anders te denken. Tenslotte is dat waar uw buitenruimte voor is ontworpen.",
+                "model-viewer.side-info.amani4.feature1":"Vouw Loggia",
+                "model-viewer.side-info.amani4.feature2":"Schuif Loggia",
+                "model-viewer.side-info.amani4.feature3":"Screen",
+                "model-viewer.side-info.amani4.feature4":"Linarte wand",
+
+            "model-viewer.side-info.amani6.description":"Wilt u buiten eten, maar toch beschermd zijn tegen de elementen? Dan kan dit de oplossing voor u zijn. Met Amani kunt u uw eigen buitenkeuken maken en het beste van binnen en buiten op één locatie combineren.",
+                "model-viewer.side-info.amani6.feature1":"Schuif Loggia",
+                "model-viewer.side-info.amani6.feature2":"Heldere glazen schuifwand",
+                "model-viewer.side-info.amani6.feature3":"Screen",
+                "model-viewer.side-info.amani6.feature4":"Linarte wand",
+
+            "model-viewer.side-info.amani7.description":"De perfecte plek om buiten te ontspannen.",
+                "model-viewer.side-info.amani7.feature1":"Schuif Loggia",
+                "model-viewer.side-info.amani7.feature2":"Heldere glazen schuifwand",
+                "model-viewer.side-info.amani7.feature3":"Screen",
+                "model-viewer.side-info.amani7.feature4":"Linarte wand",
+
+
+            
+            "model-viewer.side-info.camarguecl.description":"Frisse groentinten en lichte materialen wekken een luchtig gevoel op. Zo ontstaat een moderne, lichte architectuur die de grenzen tussen binnen en buiten doet vervagen. Crystal Lounge is voor al wie houdt van puur natuur. In deze stijl staan fauna en flora centraal.",
+                "model-viewer.side-info.camarguecl.feature1":"Schuif Loggia",
+                "model-viewer.side-info.camarguecl.feature2":"Mat glazen schuifwand",
+                "model-viewer.side-info.camarguecl.feature3":"Screen",
+                "model-viewer.side-info.camarguecl.feature4":"Gordijnen",
+                "model-viewer.side-info.camarguecl.feature5":"Heating Beam",
+
+            "model-viewer.side-info.camargueeo.description":"Warme aardetinten wekken een zomers gevoel op. Natuurlijke en ambachtelijke materialen verbinden je met de rijkdom van de aarde. Voor een perfecte harmonie tussen binnen en buiten.",
+                "model-viewer.side-info.camargueeo.feature1":"Schuif Loggia",
+                "model-viewer.side-info.camargueeo.feature2":"Screen",
+                "model-viewer.side-info.camargueeo.feature3":"Gordijnen",
+
+            "model-viewer.side-info.camargueig.description":"Sobere grijstinten en subtiele groentinten geïnspireerd door planten creëren een hedendaagse look. Kom helemaal tot rust in deze hedendaagse oase, omringd door de natuur.",
+                "model-viewer.side-info.camargueig.feature1":"Schuif Loggia",
+                "model-viewer.side-info.camargueig.feature2":"Screen",
+                "model-viewer.side-info.camargueig.feature3":"Heating & Sound Beam",
+
+            "model-viewer.side-info.camarguepe.description":"Zachte kleuren en afwerkingen voor een vederlichte sfeer. Hier valt alles van je schouders af en kom je helemaal tot rust.",
+                "model-viewer.side-info.camarguepe.feature1":"Schuif Loggia",
+                "model-viewer.side-info.camarguepe.feature2":"Screen",
+                "model-viewer.side-info.camarguepe.feature3":"Gordijnen",
+
+            "model-viewer.side-info.camarguesh.description":"Geïnspireerd door de Japanse traditionele architectuur brengen de kleuren en materialen van dit hedendaagse concept lichaam en geest in balans.",
+                "model-viewer.side-info.camarguesh.feature1":"Schuif Loggia",
+                "model-viewer.side-info.camarguesh.feature2":"Screen",
+                "model-viewer.side-info.camarguesh.feature3":"Linarte wand",
+
+            "model-viewer.side-info.camarguetc.description":"Een gevoel van pure transparantie, met de nadruk op technische materialen zoals glas en metaal. Hedendaagse vormgeving gaat hier in dialoog met dynamische, speelse materialen zoals soft coral.",
+                "model-viewer.side-info.camarguetc.feature1":"Schuif Loggia",
+                "model-viewer.side-info.camarguetc.feature2":"Mat glazen schuifwand",
+                "model-viewer.side-info.camarguetc.feature3":"Gordijnen",
+                "model-viewer.side-info.camarguetc.feature4":"Heating Beam",
+
+
+            "model-viewer.side-info-menu.tutorial.ar.title":"AR viewer",
+                "model-viewer.side-info-menu.tutorial.ar.phone.tutorial":"Visualiseer een terrasoverkappingen in augmented reality, selecteer een van de modellen en druk op de knop \"Open camera\"",
+                "model-viewer.side-info-menu.tutorial.ar.desktop.tutorial":"Visualiseer een terrasoverkappingen in augmented reality, druk op de knop \"Bekijk in AR\". Dit opent een QR-code. Scan deze code met een AR-compatibel apparaat. Open vervolgens dit menu en volg de stappen op dat apparaat.",
+
+            "model-viewer.side-info-menu.tutorial.bgi.title":"Achtergrondafbeelding viewer",
+                "model-viewer.side-info-menu.tutorial.bgi.phone.tutorial":"Visualiseer een terrasoverkappingen op een afbeelding, druk op \"Achtergrondafbeelding uploaden\" en kies een afbeelding. Vervolgens kunt u het model correct op uw afbeelding positioneren met behulp van uw vingers. Als u de afbeelding wilt wijzigen, upload dan een andere afbeelding of wis deze en upload een nieuwe.",
+                "model-viewer.side-info-menu.tutorial.bgi.desktop.tutorial":"Visualiseer een terrasoverkappingen op een afbeelding, druk op \"Achtergrondafbeelding uploaden\" en kies een afbeelding. Vervolgens kunt u het model correct op uw afbeelding positioneren met behulp van de schuifregelaars. Als u de afbeelding wilt wijzigen, upload dan een andere afbeelding of wis deze en upload een nieuwe.",
+
+
+        "model-viewer.bgi-controls.upload":"Achtergrondafbeelding uploaden",
+        "model-viewer.bgi-controls.clear":"Achtergrondafbeelding verwijderen",
+        "model-viewer.bgi-controls.scale":"schaal",
+        "model-viewer.bgi-controls.rotate-x":"roteer x",
+        "model-viewer.bgi-controls.rotate-y":"roteer y",
+        "model-viewer.bgi-controls.rotate-z":"roteer z",
+        "model-viewer.bgi-controls.advanced-settings":"Geavanceerde rotatie gizmo",
+        "model-viewer.bgi-controls.all":"alle",
+        "model-viewer.bgi-controls.none":"geen",
+
+    
+    "utils.fallbacklink":"https://renson.eu/",
+    "Default":"Standaard"
+}

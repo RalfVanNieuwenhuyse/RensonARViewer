@@ -1,0 +1,40 @@
+{
+    "name": "Amani",
+    "modelPaths":
+    [
+        {
+            "model":"models/amani/model/AmaniModel6.glb",
+            "image":"models/amani/image/AmaniModel6.webp",
+            "modelInfo":"models/amani/modelinfo/AmaniModel6.json"            
+        },
+        {
+            "model":"models/amani/model/AmaniModel7.glb",
+            "image":"models/amani/image/AmaniModel7.webp",
+            "modelInfo":"models/amani/modelinfo/AmaniModel7.json"            
+        },
+        {
+            "model":"models/amani/model/AmaniModel1.glb",
+            "image":"models/amani/image/AmaniModel1.webp",
+            "modelInfo":"models/amani/modelinfo/AmaniModel1.json"            
+        },
+        {
+            "model":"models/amani/model/AmaniModel2.glb",
+            "image":"models/amani/image/AmaniModel2.webp",
+            "modelInfo":"models/amani/modelinfo/AmaniModel2.json"            
+        },
+        {
+            "model":"models/amani/model/AmaniModel3.glb",
+            "image":"models/amani/image/AmaniModel3.webp",
+            "modelInfo":"models/amani/modelinfo/AmaniModel3.json"            
+        },
+        {
+            "model":"models/amani/model/AmaniModel4.glb",
+            "image":"models/amani/image/AmaniModel4.webp",
+            "modelInfo":"models/amani/modelinfo/AmaniModel4.json"            
+        },
+        {
+            "model":"models/amani/model/AmaniModel5.glb",
+            "image":"models/amani/image/AmaniModel5.webp"                    
+        }
+    ]
+}

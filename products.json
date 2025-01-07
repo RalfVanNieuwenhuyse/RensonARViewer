@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Amani",
+        "description":"home.grid.amani.description",
+        "features":[
+            "home.grid.amani.feature1",
+            "home.grid.amani.feature2",
+            "home.grid.amani.feature3",
+            "home.grid.amani.feature4",
+            "home.grid.amani.feature5"
+            ],
+        "images":["home/Amani01.jpg",
+                "home/AmaniIcon.webp",
+                "home/Amani02.jpg",
+                "home/Amani03.jpg",
+                "home/Amani04.jpg"],
+        "routerLink":["/model-viewer","amani"],
+        "productPageLink":"home.grid.amani.productPageLink"
+    },
+    {
+        "name": "Camargue",
+        "description":"home.grid.camargue.description",
+        "features":[
+            "home.grid.camargue.feature1",
+            "home.grid.camargue.feature2",
+            "home.grid.camargue.feature3",
+            "home.grid.camargue.feature4",
+            "home.grid.camargue.feature5"
+            ],
+        "images":["home/camargue05.jpg",
+                "home/camargue01.jpg",
+                "home/camargue02.jpg",
+                "home/camargue03.jpg",
+                "home/camargue04.jpg"],
+        "routerLink":["/model-viewer","camargue"],
+        "productPageLink":"home.grid.camargue.productPageLink"
+    },
+    {
+        "name": "Camargue Skye",
+        "description":"home.grid.camargue-skye.description",
+        "features":[
+            "home.grid.camargue-skye.feature1",
+            "home.grid.camargue-skye.feature2",
+            "home.grid.camargue-skye.feature3",
+            "home.grid.camargue-skye.feature4",
+            "home.grid.camargue-skye.feature5"
+            ],
+        "images":["home/camargue-sky05.jpg",
+                "home/camargue-sky01.jpg",
+                "home/camargue-sky03.jpg",
+                "home/camargue-sky04.jpg",
+                "home/camargue-sky02.jpg"],
+        "routerLink":["/model-viewer","camargue-skye"],
+        "productPageLink":"home.grid.camargue-skye.productPageLink"
+    }
+]

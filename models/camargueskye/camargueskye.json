@@ -1,0 +1,36 @@
+{
+    "name": "Camargue Skye",
+    "modelPaths":
+    [
+        {
+            "model":"models/camargueskye/model/CamargueSkyeCL.glb",
+            "image":"models/camargueskye/image/CamargueSkyeCL.webp",
+            "modelInfo":"models/camargueskye/modelinfo/CamargueSkyeCL.json"            
+        },
+        {
+            "model":"models/camargueskye/model/CamargueSkyeEO.glb",
+            "image":"models/camargueskye/image/CamargueSkyeEO.webp",
+            "modelInfo":"models/camargueskye/modelinfo/CamargueSkyeEO.json"            
+        },
+        {
+            "model":"models/camargueskye/model/CamargueSkyeIG.glb",
+            "image":"models/camargueskye/image/CamargueSkyeIG.webp",
+            "modelInfo":"models/camargueskye/modelinfo/CamargueSkyeIG.json"            
+        },
+        {
+            "model":"models/camargueskye/model/CamargueSkyePE.glb",
+            "image":"models/camargueskye/image/CamargueSkyePE.webp",
+            "modelInfo":"models/camargueskye/modelinfo/CamargueSkyePE.json"            
+        },
+        {
+            "model":"models/camargueskye/model/CamargueSkyeSH.glb",
+            "image":"models/camargueskye/image/CamargueSkyeSH.webp",
+            "modelInfo":"models/camargueskye/modelinfo/CamargueSkyeSH.json"            
+        },
+        {
+            "model":"models/camargueskye/model/CamargueSkyeTC.glb",
+            "image":"models/camargueskye/image/CamargueSkyeTC.webp",
+            "modelInfo":"models/camargueskye/modelinfo/CamargueSkyeTC.json"            
+        }
+    ]
+}

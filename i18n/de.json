@@ -144,6 +144,10 @@
         "model-viewer.bgi-controls.all":"alle",
         "model-viewer.bgi-controls.none":"keine",
 
+        "model-viewer.pop-up.textpart01":"Stellen Sie sicher, dass Sie genügend Platz haben, um den Bereich zu scannen, in dem Ihre Terrasse platziert werden soll. Wenn Sie zu nah stehen, wird das Modell nicht in der tatsächlichen Größe visualisiert.",
+        "model-viewer.pop-up.textpart02":"Wenn dies passiert, schließen Sie bitte die AR-Anwendung und versuchen Sie es erneut, indem Sie den Raum aus größerer Entfernung scannen.",
+        "model-viewer.pop-up.close":"Schließen",
+
     
     "utils.fallbacklink":"https://renson.eu/",
     "Default":"Standard"

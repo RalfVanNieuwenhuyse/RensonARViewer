@@ -144,6 +144,9 @@
         "model-viewer.bgi-controls.all":"tous",
         "model-viewer.bgi-controls.none":"aucun",
 
+        "model-viewer.pop-up.textpart01":"Assurez-vous d'avoir suffisamment d'espace pour scanner l'endroit où votre patio sera placé. Si vous vous tenez trop près, le modèle ne sera pas visualisé à sa taille réelle.",
+        "model-viewer.pop-up.textpart02":"Si cela se produit, veuillez fermer l'application AR et réessayer en scannant la pièce à une plus grande distance.",
+        "model-viewer.pop-up.close":"Fermer",
 
     "utils.fallbacklink":"https://renson.eu/",
     "Default":"Défaut"

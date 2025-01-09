@@ -143,6 +143,9 @@
         "model-viewer.bgi-controls.all":"all",
         "model-viewer.bgi-controls.none":"none",
 
+        "model-viewer.pop-up.textpart01":"Make sure you have enough room to scan the space in which your patio will be placed. When standing to close, the model will not be visualised in true size.",
+        "model-viewer.pop-up.textpart02":"If this happens, please close the AR application and try again by scanning the room from a greater distance.",
+        "model-viewer.pop-up.close":"Close",
 
     "utils.fallbacklink":"https://renson.eu/",
     "Default":"Default"
